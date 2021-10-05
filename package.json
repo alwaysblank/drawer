@@ -1,5 +1,5 @@
 {
-  "name": "@murmurcreative/drawer",
+  "name": "@alwaysblank/drawer",
   "version": "2.0.0",
   "description": "Open things and close them as well.",
   "main": "lib/index.js",
@@ -13,18 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murmurcreative/module-drawer.git"
+    "url": "git+https://github.com/alwaysblank/drawer.git"
   },
-  "author": "Ben Martinez-Bateman",
+  "author": {
+    "name": "Ben Martinez-Bateman",
+    "email": "ben@alwaysblank.dev",
+    "url": "https://alwaysblank.dev"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/murmurcreative/module-drawer/issues"
+    "url": "https://github.com/alwaysblank/drawer/issues"
   },
   "browserslist": [
     ">0.5%",
     "ie 11"
   ],
-  "homepage": "https://github.com/murmurcreative/module-drawer#readme",
+  "homepage": "https://github.com/alwaysblank/drawer#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
