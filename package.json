@@ -38,15 +38,15 @@
     "husky": "^4.2.5",
     "parcel-bundler": "^1.12.4",
     "rollup": "^2.23.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
     "tslib": "^2.0.0",
     "typescript": "^3.9.6"
   },
   "volta": {
     "node": "14.5.0"
   },
-  "dependencies": {
-    "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-node-resolve": "^5.2.0"
-  }
+  "dependencies": {}
 }
